@@ -1,0 +1,18 @@
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# Logs and databases
+*.log
+*.tmp
+
+# Temporary extraction / scratch files
+extract*.ps1
+inspect*.ps1
+find_git.ps1
+test_routes.ps1
+download_images.ps1
+*_framer.html

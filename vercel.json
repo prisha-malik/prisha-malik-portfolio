@@ -1,0 +1,8 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "rewrites": [
+    { "source": "/projects-2", "destination": "/work.html" },
+    { "source": "/projects", "destination": "/work.html" }
+  ]
+}
